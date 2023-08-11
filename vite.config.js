@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  base: process.env.NODE_ENV === 'production' ? '/vue_dynamic-list-of-posts/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/vue_list-of-posts/' : '/',
 });
