@@ -3,7 +3,7 @@
 [DEMO](https://m1k1ta.github.io/vue_list-of-posts/)
 
 ---TECHNOLOGIES---                                                                                                                        
-FRONT-END: Vue, Axios, Bulma, SCSS.
+FRONT-END: Vue, Axios, Bulma, SCSS.                                                                                                     
 [BACK-END](https://github.com/M1k1ta/node_list-of-posts): Node, Express, Sequelize.
 
 ---ABOUT---                                                                                                                        
